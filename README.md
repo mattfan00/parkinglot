@@ -2,11 +2,11 @@
 
 ## How to run
 1. Ensure `uv` is installed: https://docs.astral.sh/uv/getting-started/installation/
-1. Run the tests:
+2. Run the tests:
 ```
 uv run pytest --verbose
 ```
-1. For a more interactive experience, you can modify `main.py` and create your own lot and vehicles (with more time I would have loved to make this a CLI!):
+3. For a more interactive experience, you can modify `main.py` and create your own lot and vehicles (with more time I would have loved to make this a CLI!):
 ```
 uv run main.py
 ```
